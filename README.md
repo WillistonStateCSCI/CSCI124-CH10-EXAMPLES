@@ -1,5 +1,5 @@
 # CSCI124-CH10-EXAMPLES
-Programming Examples From C++ Programming: From Problem Analysis to Program Design by DS Malik
+Programming Examples From C++ Programming: From Problem Analysis to Program Design by DS Malik  
 **Before you Begin:  These projects all consist of multiple files.  Instead of using the run button as before, each project will have a compile command, followed by a run command to enter into the terminal.  You must recompile after ANY change before re-running your program.**  
 **CH10EX02** - Initial ClockType example  
 - *To Compile:*  g++ CH10EX02/* -o clock  
